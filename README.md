@@ -1,4 +1,4 @@
-## Hybrid Style Siamese Network
+# Hybrid Style Siamese Network
 
 This is the code for the paper:
 
@@ -16,7 +16,7 @@ The performance in regards to the retrieval of complimentary items in terms of M
 | Hybrid Style Siamese Network | 0.1251 | 0.1343 | 0.1329 | 0.1308 | 
 
 
-####Dependencies:
+### Dependencies:
 1. pytorch (both torch and torchvision)
 2. numpy
 3. opencv
