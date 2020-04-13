@@ -155,12 +155,12 @@ ia = Data_augmentation()
 
 import pickle
 
-file = open("tees.pkl", "rb")
+file = open("data/tees.pkl", "rb")
 tmp = pickle.load(file)
 apparelA_dict = tmp
 file.close()
 
-file = open("skirts.pkl", "rb")
+file = open("data/skirts.pkl", "rb")
 tmp = pickle.load(file)
 apparelB_dict = tmp
 file.close()

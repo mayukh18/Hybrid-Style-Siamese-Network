@@ -8,6 +8,8 @@ Mayukh Bhattacharyya, Sayan Nag
 
 Hybrid Style Siamese Network incorporates style loss into triplet loss, in order to aid in complimentary images retrieval. In the paper, it had been used for the application of complimentary apparels retrieval.
 
+The performance in regards to the retrieval of complimentary items in terms of MAP scores.
+
 | Model | Seed 1 | Seed 2 | Seed 3 | Mean |
 | --- | --- | --- | --- | --- |
 | Siamese Network | 0.1226 | 0.1323 | 0.1263 | 0.1271 |
