@@ -15,6 +15,13 @@ The performance in regards to the retrieval of complimentary items in terms of M
 | Siamese Network | 0.1226 | 0.1323 | 0.1263 | 0.1271 |
 | Hybrid Style Siamese Network | 0.1251 | 0.1343 | 0.1329 | 0.1308 | 
 
+
+####Dependencies:
+1. pytorch (both torch and torchvision)
+2. numpy
+3. opencv
+4. scikit-learn
+
 In order to reproduce the experiments in the paper:
 
 ```

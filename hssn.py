@@ -75,7 +75,6 @@ import numpy as np
 
 np.random.seed(SEED_VALUE)
 
-import pandas as pd
 from copy import deepcopy
 import cv2
 
