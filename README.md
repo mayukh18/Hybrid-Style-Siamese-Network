@@ -2,9 +2,11 @@
 
 This is the code for the paper:
 
-[Hybrid Style Siamese Network: Incorporating style loss in complimentary apparels retrieval](https://arxiv.org/abs/1912.05014)
+[Hybrid Style Siamese Network: Incorporating style loss in complementary apparels retrieval](https://arxiv.org/abs/1912.05014)
 <br>
 Mayukh Bhattacharyya, Sayan Nag
+<br>
+Computer Vision for Fashion, Art and Design, CVPR 2020
 
 Hybrid Style Siamese Network incorporates style loss into triplet loss, in order to aid in complimentary images retrieval. In the paper, it had been used for the application of complimentary apparels retrieval.
 
