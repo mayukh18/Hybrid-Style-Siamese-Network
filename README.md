@@ -8,9 +8,9 @@ Mayukh Bhattacharyya, Sayan Nag
 <br>
 Computer Vision for Fashion, Art and Design, CVPR 2020
 
-Hybrid Style Siamese Network incorporates style loss into triplet loss, in order to aid in complimentary images retrieval. In the paper, it had been used for the application of complimentary apparels retrieval.
+Hybrid Style Siamese Network incorporates style loss into triplet loss, in order to aid in complementary images retrieval. In the paper, it had been used for the application of complementary apparels retrieval.
 
-The performance in regards to the retrieval of complimentary items in terms of MAP scores.
+The performance in regards to the retrieval of complementary items in terms of MAP scores.
 
 | Model | Seed 1 | Seed 2 | Seed 3 | Mean |
 | --- | --- | --- | --- | --- |
